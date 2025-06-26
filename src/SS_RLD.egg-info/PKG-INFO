@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: SS_RLD
+Version: 0.1.0
+Summary: This project contains all the data and code used for SS_RLD manuscript
+Author-email: Vikas Pandey <pandev2@rpi.edu>
+Requires-Dist: tensorflow
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: pandas
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: flake8; extra == "dev"
+Requires-Dist: black; extra == "dev"

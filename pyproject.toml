@@ -1,0 +1,29 @@
+[project]
+name = "SS_RLD" # this is my project name
+version = "0.1.0"
+description = "This project contains all the data and code used for SS_RLD manuscript"
+authors = [
+    { name = "Vikas Pandey", email = "pandev2@rpi.edu" }
+]
+
+dependencies = [
+    "tensorflow",
+    "numpy",
+    "matplotlib",
+    "scikit-learn",
+    "pandas"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "flake8",
+    "black"
+]
+
+[build-system]
+requires = ["setuptools>=61.0"] # Or "hatchling", "poetry-core" etc. depending on your build backend
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"] # Tells setuptools   to look for packages in the 'src' directory
