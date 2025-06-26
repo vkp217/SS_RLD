@@ -8,3 +8,17 @@ This work has also demonstated the use of Deep Learning model to compendate the 
 ## Usage
 the code can be used directly using
 python src/ss/main.py
+
+## Citation
+If you use this code/work, please use the following citation:
+
+@article {Pandey2025.04.16.646646,
+author = {Pandey, Vikas and Millar, Euan and Erbas, Ismail and Chavez, Luis and Radford, Jack and Crosbourne, Isaiah and Madhusudan, Mansa and Taylor, Gregor G. and Yuan, Nanxue and Bruschini, Claudio and Radev, Stefan T. and Barroso, Margarida and Tobin, Andrew and Michalet, Xavier and Charbon, Edoardo and Faccio, Daniele and Intes, Xavier},
+title = {Real-Time Wide-Field Fluorescence Lifetime Imaging via Single-Snapshot Acquisition for Biomedical Applications},
+elocation-id = {2025.04.16.646646},
+year = {2025},
+doi = {10.1101/2025.04.16.646646},
+publisher = {Cold Spring Harbor Laboratory},
+URL = {https://www.biorxiv.org/content/early/2025/04/22/2025.04.16.646646},
+eprint = {https://www.biorxiv.org/content/early/2025/04/22/2025.04.16.646646.full.pdf},
+journal = {bioRxiv}}
