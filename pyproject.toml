@@ -1,7 +1,7 @@
 [project]
 name = "SS_RLD" # this is my project name
 version = "0.1.0"
-description = "This project contains all the data and code used for SS_RLD manuscript"
+description = "This project contains data and code used for manuscript"
 authors = [
     { name = "Vikas Pandey", email = "pandev2@rpi.edu" }
 ]
