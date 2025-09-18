@@ -7,7 +7,7 @@ This work has also demonstated the use of Deep Learning model to compendate the 
 ## Set-up
 The file src/ss/main.py implements the computational aspects of the SS3 data acquisition and output generation workflow. We utilized modified SwissSPAD Live software (https://github.com/smXplorer/SwissSPAD-Live.git) to capture real-time Intensity Maps (G2 and INT channels) and generate their corresponding pixel-wise Fluorescence Lifetime maps.
 ## Usage
-the code can be used directly using
+The code can be used directly using
 python src/ss/main.py
 
 ## Citation
